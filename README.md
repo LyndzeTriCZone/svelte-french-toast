@@ -1,5 +1,5 @@
 <img src="./header-image.png" alt="" />
-<p align="center">
+<p align="right">
 <img src="https://badgen.net/badge/license/MIT/blue" />
 <img src="https://badgen.net/npm/v/svelte-french-toast" />
 </p>
